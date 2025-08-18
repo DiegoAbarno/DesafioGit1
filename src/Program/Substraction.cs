@@ -5,6 +5,6 @@ public class Substraction
 {
     public static int Substract(int a, int b)
     {
-        return 12312321;
+        return a - b;
     }
 }
